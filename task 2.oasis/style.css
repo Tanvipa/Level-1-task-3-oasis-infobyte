@@ -1,0 +1,19 @@
+body {
+    background-color: #45c7d8;
+    margin: 20%;
+}
+img {
+    display: inline-block;
+    width: 80%;
+    height: 300;
+}
+#heading {
+    text-align: center;
+    font-size: 7vh;
+}
+footer{
+    background: black;
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+}
